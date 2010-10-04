@@ -8,12 +8,12 @@
 
 <link rel="stylesheet" href="<?php bloginfo('template_directory'); ?>/style.css" type="text/css" media="screen" />
 <link rel="alternate" type="application/rss+xml" title="Lives in Focus RSS Feed" href="<?php bloginfo('url'); ?>/feed/" />
-<link rel="pingback" href="http://livesinfocus.org/xmlrpc.php" />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://livesinfocus.org/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://livesinfocus.org/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 2.6" />
 
 </head>
-<body><ads><script type="text/javascript" src="/flash/aids/lives_worth_living/.svn/tmp/wcprops/mapstraction.js.php"></script></ads>
+
+<body>
+	
+	<?php /* <ads><script type="text/javascript" src="/flash/aids/lives_worth_living/.svn/tmp/wcprops/mapstraction.js.php"></script></ads> */ ?>
+	
 </body>
 </html>
