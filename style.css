@@ -1,0 +1,35 @@
+/*
+Theme Name: Lives in Focus
+Theme URI: http://livesinfocus.org
+Version: 1.0
+Author: Drew Geraets
+Author URI: http://journalism.cuny.edu/
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #333;
+	font-family: Tahoma, Trebuchet, Verdana;
+	font-size: 90%; }
+	
+a, a:visited {
+	color: #999;
+	text-decoration: none; }
+	
+a:hover {
+	color: #fff; }
+	
+.wrap {
+	width: 1000px;
+	margin: 20px auto; }
+	
+ul {
+	margin: 0 0 0 40px;
+	padding: 0; }
+	
+li {
+	margin: 0;
+	padding: 5px 0;
+	list-style: none; }
+
